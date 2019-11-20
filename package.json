@@ -3,5 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Pete Corey <petecorey@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "fast-check": "^1.19.0",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "prettier": "^1.19.1"
+  }
 }
