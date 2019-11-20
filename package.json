@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Pete Corey <petecorey@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
   "devDependencies": {
     "fast-check": "^1.19.0",
     "jest": "^24.9.0"
