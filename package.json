@@ -1,0 +1,7 @@
+{
+  "name": "count_the_divisible_numbers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Pete Corey <petecorey@gmail.com>",
+  "license": "MIT"
+}
